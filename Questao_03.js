@@ -1,6 +1,6 @@
 const nome = "João da Silva"
-const primeira_nota = 7
-const segunda_nota = 8.5
+const primeira_nota = 10
+const segunda_nota = 10
 
 const mult_primeira_nota = primeira_nota * 0.6
 const mult_segunda_nota = segunda_nota * 0.4

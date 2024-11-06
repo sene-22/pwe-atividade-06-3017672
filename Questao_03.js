@@ -1,4 +1,4 @@
-const nome = "Vinicus Sene"
+const nome = "Vinicius Sene"
 const primeira_nota = 10
 const segunda_nota = 10
 
